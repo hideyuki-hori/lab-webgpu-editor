@@ -1,7 +1,6 @@
 import { basicSetup } from 'codemirror'
 import { EditorView } from '@codemirror/view'
 import { EditorState } from '@codemirror/state'
-import { vim } from '@replit/codemirror-vim'
 import { wgsl } from '@iizukak/codemirror-lang-wgsl'
 import { transparentTheme, highlightStyle } from './theme'
 
@@ -13,7 +12,6 @@ export const createEditor = (
   const state = EditorState.create({
     doc: initialDoc,
     extensions: [
-      vim(),
       basicSetup,
       wgsl(),
       transparentTheme,
