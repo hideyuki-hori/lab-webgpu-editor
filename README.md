@@ -100,6 +100,10 @@ pnpm preview
 - Node.js 18+
 - pnpm
 
+## Blog Post
+
+- [WebGPU + Effect.ts リアルタイムシェーダーエディタ](https://zenn.dev/hideyuki_hori/articles/36b43324221f3d) (Japanese)
+
 ## License
 
 MIT
