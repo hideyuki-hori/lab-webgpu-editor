@@ -4,6 +4,8 @@ A real-time WGSL fragment shader editor running entirely in the browser — insp
 
 ![Screenshot](ss.png)
 
+**[Live Demo](https://lab-webgpu-editor.every.fail/)**
+
 ## Features
 
 - **Real-time shader editing** — Edit WGSL fragment shaders with instant visual feedback (300ms debounce)
