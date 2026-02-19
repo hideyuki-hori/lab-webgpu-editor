@@ -104,7 +104,7 @@ pnpm preview
 
 ## Blog Post
 
-- [WebGPU + Effect.ts リアルタイムシェーダーエディタ](https://zenn.dev/hideyuki_hori/articles/36b43324221f3d) (Japanese)
+- [WebGPU + Effect.ts でリアルタイムシェーダーエディタを作った](https://zenn.dev/hideyuki_hori/articles/36b43324221f3d) (Japanese)
 
 ## License
 
